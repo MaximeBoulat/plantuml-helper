@@ -2,13 +2,13 @@
   "name": "plantuml-helper",
   "main": "./lib/plantuml-helper",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "This package prides",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "plantuml-helper:fetch"
   },
-  "repository": "https://github.com/atom/plantuml-helper",
+  "repository": "https://github.com/MaximeBoulat/plantuml-helper",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
