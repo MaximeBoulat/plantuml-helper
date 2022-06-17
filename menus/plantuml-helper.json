@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle plantuml-helper",
+        "command": "plantuml-helper:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "plantuml-helper",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "plantuml-helper:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
