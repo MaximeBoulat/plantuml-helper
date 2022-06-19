@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle plantuml-helper",
-        "command": "plantuml-helper:fetch"
+        "label": "Render diagram",
+        "command": "plantuml-helper:render"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "plantuml-helper",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "plantuml-helper:fetch"
+              "label": "Render diagram",
+              "command": "plantuml-helper:render"
             }
           ]
         }

@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "plantuml-helper:fetch"
+    "ctrl-alt-o": "plantuml-helper:render"
   }
 }

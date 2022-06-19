@@ -5,7 +5,7 @@
   "description": "This package provides an easy way to render plantuml diagram straight from Atom",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "plantuml-helper:fetch"
+    "atom-workspace": "plantuml-helper:render"
   },
   "repository": "https://github.com/MaximeBoulat/plantuml-helper",
   "license": "MIT",
