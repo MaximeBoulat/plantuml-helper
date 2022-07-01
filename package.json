@@ -1,7 +1,7 @@
 {
   "name": "plantuml-helper",
   "main": "./lib/plantuml-helper",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "description": "This package provides an easy way to render plantuml diagram straight from Atom",
   "keywords": [],
   "activationCommands": {
